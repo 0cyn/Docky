@@ -1,0 +1,14 @@
+# ninja log v5
+1	164	1590269053719643158	.dragon/build/armv7/AppearanceSettings.m.o	5d377de073b34d6
+2	164	1590269053720650652	.dragon/build/arm64/AppearanceSettings.m.o	b8c437112f457086
+2	167	1590269053725038103	.dragon/build/arm64e/AppearanceSettings.m.o	6e86f7f01554c296
+2	195	1590269053755374765	.dragon/build/arm64e/Preferences.m.o	d6eb86608b6a282a
+1	200	1590269053759952924	.dragon/build/arm64/Preferences.m.o	2d18a84b656d3717
+0	203	1590269053762430203	.dragon/build/armv7/Preferences.m.o	d31eb551719e875d
+195	342	1590269053899003919	.dragon/build/DockyPrefs.arm64e	d59e4386a2eca3d1
+200	343	1590269053901853524	.dragon/build/DockyPrefs.arm64	6670986cafbda1fa
+203	345	1590269053906562649	.dragon/build/DockyPrefs.armv7	81ddbf00aa112084
+345	360	1590269053927189700	.dragon/sign/.dragon/_/Library/PreferenceBundles/DockyPrefs.bundle/DockyPrefs.unsym	bc2da703f93a8483
+360	379	1590269053945750894	.dragon/sign/.dragon/_/Library/PreferenceBundles/DockyPrefs.bundle/DockyPrefs.unsigned	465967b81f72fc20
+379	393	1590269053959960401	.dragon/_/Library/PreferenceBundles/DockyPrefs.bundle/DockyPrefs	9b2c4ef20215030f
+0	10	0	stage	874a8da16c1b4fc1
