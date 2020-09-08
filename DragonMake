@@ -13,7 +13,7 @@ Docky:
     - WebKit
 
 DockyPrefs:
-  dir: prefs
+  dir: Prefs
   type: prefs
   files:
     - Preferences.m
